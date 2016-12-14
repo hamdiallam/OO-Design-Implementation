@@ -1,0 +1,3 @@
+NAME TYPE
+Hamdi, student
+N ewton, teacher

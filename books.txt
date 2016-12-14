@@ -1,0 +1,3 @@
+ISBN TITLE PUBLISHER isReference FINE maxDAYS numCopies!
+1234, 10 ways to win, bob joe, false, 5, 1, 1
+2345, Calculus, stewart, true, 10, 1, 2
